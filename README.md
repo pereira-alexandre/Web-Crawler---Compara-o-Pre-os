@@ -1,5 +1,5 @@
 # Web-Crawler
-Crawler em Python para sites comerciais e comparação de preços
+Python Crawler for Business Websites and Price Comparison
 
 
 1) The client wanted a real-time price comparison of meat prices with other markets, something quick and easy to implement.
